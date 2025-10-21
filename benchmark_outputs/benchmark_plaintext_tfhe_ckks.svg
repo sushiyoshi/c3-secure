@@ -1,0 +1,76 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='440' viewBox='0 0 1200 440'>
+  <style>text{font-family:Arial,sans-serif;font-size:18px;} .legend{font-size:20px;font-weight:bold;}</style>
+  <rect width='100%' height='100%' fill='white'/>
+  <text x='600.0' y='40' class='legend'>実験結果</text>
+  <rect x='80.00' y='70.00' width='460.00' height='300.00' fill='none' stroke='#444' stroke-width='2'/>
+  <text x='310.00' y='50.00' text-anchor='middle' class='legend'>精度</text>
+  <line x1='80.00' y1='370.00' x2='540.00' y2='370.00' stroke='#ddd' stroke-width='1'/>
+  <text x='70.00' y='375.00' text-anchor='end'>65.00</text>
+  <line x1='80.00' y1='295.00' x2='540.00' y2='295.00' stroke='#ddd' stroke-width='1'/>
+  <text x='70.00' y='300.00' text-anchor='end'>69.75</text>
+  <line x1='80.00' y1='220.00' x2='540.00' y2='220.00' stroke='#ddd' stroke-width='1'/>
+  <text x='70.00' y='225.00' text-anchor='end'>74.50</text>
+  <line x1='80.00' y1='145.00' x2='540.00' y2='145.00' stroke='#ddd' stroke-width='1'/>
+  <text x='70.00' y='150.00' text-anchor='end'>79.25</text>
+  <line x1='80.00' y1='70.00' x2='540.00' y2='70.00' stroke='#ddd' stroke-width='1'/>
+  <text x='70.00' y='75.00' text-anchor='end'>84.00</text>
+  <text x='310.00' y='410.00' text-anchor='middle'>Learning Round</text>
+  <text x='10.00' y='220.00' text-anchor='middle' transform='rotate(-90,10.00,220.00)'>Accuracy (%)</text>
+  <polyline fill='none' stroke='#1f77b4' stroke-width='3' points='80.00,370.00 195.00,346.32 310.00,267.37 425.00,243.68 540.00,220.00'/>
+  <circle cx='80.00' cy='370.00' r='5' fill='#1f77b4'/>
+  <circle cx='195.00' cy='346.32' r='5' fill='#1f77b4'/>
+  <circle cx='310.00' cy='267.37' r='5' fill='#1f77b4'/>
+  <circle cx='425.00' cy='243.68' r='5' fill='#1f77b4'/>
+  <circle cx='540.00' cy='220.00' r='5' fill='#1f77b4'/>
+  <polyline fill='none' stroke='#ff7f0e' stroke-width='3' points='80.00,180.53 195.00,172.63 310.00,141.05 425.00,101.58 540.00,70.00'/>
+  <circle cx='80.00' cy='180.53' r='5' fill='#ff7f0e'/>
+  <circle cx='195.00' cy='172.63' r='5' fill='#ff7f0e'/>
+  <circle cx='310.00' cy='141.05' r='5' fill='#ff7f0e'/>
+  <circle cx='425.00' cy='101.58' r='5' fill='#ff7f0e'/>
+  <circle cx='540.00' cy='70.00' r='5' fill='#ff7f0e'/>
+  <polyline fill='none' stroke='#2ca02c' stroke-width='3' points='80.00,370.00 195.00,346.32 310.00,267.37 425.00,243.68 540.00,220.00'/>
+  <circle cx='80.00' cy='370.00' r='5' fill='#2ca02c'/>
+  <circle cx='195.00' cy='346.32' r='5' fill='#2ca02c'/>
+  <circle cx='310.00' cy='267.37' r='5' fill='#2ca02c'/>
+  <circle cx='425.00' cy='243.68' r='5' fill='#2ca02c'/>
+  <circle cx='540.00' cy='220.00' r='5' fill='#2ca02c'/>
+  <rect x='660.00' y='70.00' width='460.00' height='300.00' fill='none' stroke='#444' stroke-width='2'/>
+  <text x='890.00' y='50.00' text-anchor='middle' class='legend'>実行時間</text>
+  <line x1='660.00' y1='370.00' x2='1120.00' y2='370.00' stroke='#ddd' stroke-width='1'/>
+  <text x='650.00' y='375.00' text-anchor='end'>0.01</text>
+  <line x1='660.00' y1='295.00' x2='1120.00' y2='295.00' stroke='#ddd' stroke-width='1'/>
+  <text x='650.00' y='300.00' text-anchor='end'>1.59</text>
+  <line x1='660.00' y1='220.00' x2='1120.00' y2='220.00' stroke='#ddd' stroke-width='1'/>
+  <text x='650.00' y='225.00' text-anchor='end'>3.17</text>
+  <line x1='660.00' y1='145.00' x2='1120.00' y2='145.00' stroke='#ddd' stroke-width='1'/>
+  <text x='650.00' y='150.00' text-anchor='end'>4.74</text>
+  <line x1='660.00' y1='70.00' x2='1120.00' y2='70.00' stroke='#ddd' stroke-width='1'/>
+  <text x='650.00' y='75.00' text-anchor='end'>6.32</text>
+  <text x='890.00' y='410.00' text-anchor='middle'>Learning Round</text>
+  <text x='590.00' y='220.00' text-anchor='middle' transform='rotate(-90,590.00,220.00)'>Round Time (seconds)</text>
+  <polyline fill='none' stroke='#1f77b4' stroke-width='3' points='660.00,369.31 775.00,369.96 890.00,369.97 1005.00,369.98 1120.00,370.00'/>
+  <circle cx='660.00' cy='369.31' r='5' fill='#1f77b4'/>
+  <circle cx='775.00' cy='369.96' r='5' fill='#1f77b4'/>
+  <circle cx='890.00' cy='369.97' r='5' fill='#1f77b4'/>
+  <circle cx='1005.00' cy='369.98' r='5' fill='#1f77b4'/>
+  <circle cx='1120.00' cy='370.00' r='5' fill='#1f77b4'/>
+  <polyline fill='none' stroke='#ff7f0e' stroke-width='3' points='660.00,70.00 775.00,110.38 890.00,113.87 1005.00,123.66 1120.00,91.01'/>
+  <circle cx='660.00' cy='70.00' r='5' fill='#ff7f0e'/>
+  <circle cx='775.00' cy='110.38' r='5' fill='#ff7f0e'/>
+  <circle cx='890.00' cy='113.87' r='5' fill='#ff7f0e'/>
+  <circle cx='1005.00' cy='123.66' r='5' fill='#ff7f0e'/>
+  <circle cx='1120.00' cy='91.01' r='5' fill='#ff7f0e'/>
+  <polyline fill='none' stroke='#2ca02c' stroke-width='3' points='660.00,365.88 775.00,369.59 890.00,369.85 1005.00,369.91 1120.00,368.10'/>
+  <circle cx='660.00' cy='365.88' r='5' fill='#2ca02c'/>
+  <circle cx='775.00' cy='369.59' r='5' fill='#2ca02c'/>
+  <circle cx='890.00' cy='369.85' r='5' fill='#2ca02c'/>
+  <circle cx='1005.00' cy='369.91' r='5' fill='#2ca02c'/>
+  <circle cx='1120.00' cy='368.10' r='5' fill='#2ca02c'/>
+  <text x='80.00' y='450.00' class='legend' text-anchor='start'>凡例</text>
+  <rect x='80.00' y='470.00' width='24' height='24' fill='#1f77b4'/>
+  <text x='116.00' y='490.00' text-anchor='start'>Plaintext</text>
+  <rect x='80.00' y='500.00' width='24' height='24' fill='#ff7f0e'/>
+  <text x='116.00' y='520.00' text-anchor='start'>TFHE Encrypted</text>
+  <rect x='80.00' y='530.00' width='24' height='24' fill='#2ca02c'/>
+  <text x='116.00' y='550.00' text-anchor='start'>CKKS Encrypted</text>
+</svg>
